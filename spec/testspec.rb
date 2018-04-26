@@ -1,4 +1,4 @@
-require 'rails_helper'
+
 describe "Lesson1-A Model testing" do
   
   it 'should return plus of two number' do
